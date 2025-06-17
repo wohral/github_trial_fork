@@ -1,1 +1,2 @@
-# github_trial
+# GITHUB TRIAL
+Tady se přidává README.md
