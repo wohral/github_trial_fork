@@ -1,2 +1,2 @@
 # GITHUB TRIAL
-Tady se přidává README.md
+Tady se updatuje README.md
